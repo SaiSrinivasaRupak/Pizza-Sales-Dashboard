@@ -1,4 +1,4 @@
-![Pizza sales](https://github.com/user-attachments/assets/870dafa2-877e-4c49-b6b8-199c450dc5c7)# Pizza-Sales-Dashboard
+# Pizza-Sales-Dashboard
  Creation of an interactive Pizza Sales Dashboard using Power BI,designed to provide comprehensive insights into sales performance and customer trends. The dashboard enables users to analyze sales data through various interactive visualizations, making it easier to identify trends, optimize inventory, and drive marketing strategies.
 
 # Key Features:
